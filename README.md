@@ -6,6 +6,8 @@ I'm an aspiring software developer, with a focus on game engine development, alt
 I've recently done a career shift into the world of Computer Science, having previously worked as a geophysicist.
 All my coding projects can be found here.
 
+### Languages and Tools
+
 <!--
 **Varendraaa/Varendraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
