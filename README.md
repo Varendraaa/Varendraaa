@@ -2,6 +2,9 @@
 
 **`Level 2 Code Wizard`**
 
+I'm an aspiring software developer, with a focus on game engine development, although I like playing around with whatever I find interesting at the time, be it machine learning or web application development.
+I've recently done a career shift into the world of Computer Science, having previously worked as a geophysicist.
+All my coding projects can be found here.
 
 <!--
 **Varendraaa/Varendraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
