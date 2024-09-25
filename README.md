@@ -1,6 +1,6 @@
 # Varendraaa
 
-**`Level 2 Code Wizard`**
+**`Level 2 Code Wizard`**  **`Low Level Game Dev`**
 
 I'm an aspiring software developer, with a focus on game engine development, although I like playing around with whatever I find interesting at the time, be it machine learning or web application development.
 I've recently done a career shift into the world of Computer Science, having previously worked as a geophysicist.
