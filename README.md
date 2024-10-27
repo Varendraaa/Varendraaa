@@ -1,10 +1,11 @@
 # Varendraaa
+## Welcome to my *portfolio*. All my coding projects can be found here, with detailed explanations and demonstrations.
 
 **`Level 2 Code Wizard`**  **`Low Level Game Dev`**
 
 I'm an aspiring software developer, with a focus on game engine development, although I like playing around with whatever I find interesting at the time, be it machine learning or web application development.
 I've recently done a career shift into the world of Computer Science, having previously worked as a geophysicist.
-All my coding projects can be found here.
+
 
 ___
 
