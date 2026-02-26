@@ -2,8 +2,7 @@
 
 **`Junior Software Engineer`**  **`Robotics`** **`Full Stack Web Dev`**
 
-I'm an aspiring software developer, with a focus on game engine development, although I like playing around with whatever I find interesting at the time, be it machine learning or web application development.
-I've recently done a career shift into the world of Computer Science, having previously worked as a geophysicist.
+Junior Software Engineer, with experience in full stack web development and deployment of secure project applications.
 
 
 ___
